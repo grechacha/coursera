@@ -1,2 +1,2 @@
 # coursera
-Completed tasks from online edu platform "Coursera"
+Completed tasks from online educational platform - "Coursera"
